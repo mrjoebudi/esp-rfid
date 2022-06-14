@@ -15,7 +15,7 @@
     "gulp-flatmap": "^1.0.2",
     "gulp-gzip": "^1.4.2",
     "gulp-htmlmin": "^4.0.0",
-    "gulp-uglify": "^3.0.1",
+    "gulp-uglify": "^3.0.2",
     "pump": "^3.0.0"
   },
   "bin": "node_modules\\gulp\\bin\\gulp.js"
